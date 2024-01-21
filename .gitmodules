@@ -10,3 +10,9 @@
 [submodule "luci-theme-argon"]
 	path = luci-theme-argon
 	url = https://github.com/jerrykuku/luci-theme-argon.git
+[submodule "luci-theme-design"]
+	path = luci-theme-design
+	url = https://github.com/gngpp/luci-theme-design.git
+[submodule "luci-app-design-config"]
+	path = luci-app-design-config
+	url = https://github.com/gngpp/luci-app-design-config.git
