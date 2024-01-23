@@ -16,3 +16,7 @@
 [submodule "luci-app-design-config"]
 	path = luci-app-design-config
 	url = https://github.com/gngpp/luci-app-design-config.git
+[submodule "luci-theme-design-js"]
+	path = luci-theme-design-js
+	url = https://github.com/gngpp/luci-theme-design.git
+	branch = js
